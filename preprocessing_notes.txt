@@ -1,0 +1,3 @@
+Training set and Test sets. 
+Training sets usually comprise of 80% of the data with the remaining 20% used for the test.
+Feature scaling is always applied to columns. 
